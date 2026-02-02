@@ -43,5 +43,6 @@ Built with a **Glassmorphism UI**, it leverages an **Ensemble Voting Regressor**
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/insurrisk-ai.git](https://github.com/sumitshresht/InsurRisk-AI.git)
+git clone [https://github.com/sumitshresht/InsurRisk-AI.git](https://github.com/sumitshresht/InsurRisk-AI.git)
 cd insurrisk-ai
+
